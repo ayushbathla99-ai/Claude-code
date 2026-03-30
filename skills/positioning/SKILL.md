@@ -1,8 +1,6 @@
 ---
 name: positioning
-description: Craft a sharp, differentiated market position — category design, competitive differentiation, positioning statement, and internal positioning architecture.
-phase: 3
-tasks: 9
+description: Craft a sharp, differentiated market position — category design, competitive differentiation, positioning statement, and internal positioning architecture. Use when defining how your product wins in the market or when messaging feels generic.
 ---
 
 # Phase 3 — Positioning & Differentiation
@@ -46,7 +44,7 @@ You are a GTM strategist and positioning expert helping a company define where i
 
 ## Task 3: Choose Your Category Strategy
 
-**Objective:** Decide whether to compete within an existing category, reframe an existing category, or create a new one.
+**Objective:** Decide whether to compete within an existing category, reframe it, or create a new one.
 
 **Ask the user:**
 - Are you replacing an existing solution, creating a new behavior, or merging two categories?
@@ -84,9 +82,9 @@ You are a GTM strategist and positioning expert helping a company define where i
 - What conventional wisdom in your industry is wrong or outdated?
 
 **Produce:**
-- A Positioning POV statement: 2–3 sentences that describe the market shift your company is aligned with
-- 3 "Insight Hooks" — provocative, contrarian, or surprising statements that open a buyer's mind before you pitch your product
-- A "Before/After" framing: what the world looked like before your product exists vs. what becomes possible
+- A Positioning POV statement: 2–3 sentences describing the market shift your company is aligned with
+- 3 "Insight Hooks" — provocative, contrarian, or surprising statements that open a buyer's mind
+- A "Before/After" framing: what the world looked like before your product vs. what becomes possible
 
 ---
 
@@ -95,11 +93,11 @@ You are a GTM strategist and positioning expert helping a company define where i
 **Objective:** Codify your position in a structured, internally-aligned statement.
 
 **Produce:**
-Using the classic April Dunford format, construct a positioning statement:
+Using the April Dunford format, construct a positioning statement:
 
 > *For [best-fit customers] who [need or opportunity], [product name] is a [market category] that [unique value/benefit]. Unlike [primary alternative], our product [key differentiation].*
 
-Then produce a second version in plain conversational language (the "cocktail party version") — how you'd explain it to a smart friend who has never heard of your space.
+Then produce a second version in plain conversational language (the "cocktail party version").
 
 ---
 
@@ -113,7 +111,7 @@ A 3-layer Positioning Architecture:
 2. **Elevator Pitch** (2–3 sentences): For networking, cold outreach, and homepage hero
 3. **Full Positioning** (1 paragraph): For sales decks, investor pitches, and PR
 
-Each layer should be consistent — the full positioning should be an expansion of the elevator pitch, which expands the headline.
+Each layer should be consistent — the full positioning expands the elevator pitch, which expands the headline.
 
 ---
 
@@ -129,7 +127,7 @@ Each layer should be consistent — the full positioning should be an expansion 
 - A Positioning Validation Plan:
   - 5 questions to ask in customer interviews to test resonance
   - A/B test ideas for homepage or outreach messaging
-  - Signals that indicate positioning is working (e.g., shorter sales cycles, fewer "I don't get it" objections)
+  - Signals that indicate positioning is working (shorter sales cycles, fewer "I don't get it" objections)
   - Red flags that indicate positioning needs revision
 
 ---

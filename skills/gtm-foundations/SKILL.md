@@ -1,8 +1,6 @@
 ---
 name: gtm-foundations
-description: Establish the strategic bedrock of your go-to-market motion — market sizing, problem validation, solution fit, and competitive landscape analysis.
-phase: 1
-tasks: 9
+description: Build the strategic foundation for go-to-market — problem validation, market sizing (TAM/SAM/SOM), competitive landscape, unfair advantage, and GTM hypothesis. Use when starting a new GTM strategy or validating market fit.
 ---
 
 # Phase 1 — GTM Foundations
@@ -67,7 +65,7 @@ You are a senior GTM strategist helping a founder or product leader build a rigo
 
 **Produce:**
 - A Competitive Landscape table: Competitor | Target Customer | Key Differentiator | Pricing Model | Weakness
-- A "White Space" narrative: where the existing solutions fall short and where your opportunity lives
+- A "White Space" narrative: where existing solutions fall short and where your opportunity lives
 
 ---
 

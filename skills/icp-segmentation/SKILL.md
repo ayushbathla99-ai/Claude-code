@@ -1,8 +1,6 @@
 ---
 name: icp-segmentation
-description: Define and prioritize your Ideal Customer Profile (ICP) — firmographics, psychographics, jobs-to-be-done, buying triggers, and segment prioritization.
-phase: 2
-tasks: 8
+description: Define and prioritize your Ideal Customer Profile (ICP) — firmographics, psychographics, jobs-to-be-done, buying triggers, buying committee, and segment prioritization. Use when identifying who to target or validating customer fit.
 ---
 
 # Phase 2 — ICP & Segmentation
@@ -54,8 +52,8 @@ You are a GTM strategist specializing in customer segmentation and ideal custome
 **Objective:** Translate the ICP into concrete, filterable attributes for prospecting.
 
 **Ask the user:**
-- What tech stack signals (CRM, analytics tools, competitors) indicate a good fit?
-- What company signals (funding round, headcount growth, hiring for specific roles) matter?
+- What tech stack signals indicate a good fit?
+- What company signals (funding round, headcount growth, hiring) matter?
 
 **Produce:**
 - A Firmographic Filter Table: Attribute | Ideal Range | Disqualifying Signal

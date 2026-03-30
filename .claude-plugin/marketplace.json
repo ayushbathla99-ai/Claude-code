@@ -1,0 +1,14 @@
+{
+  "name": "gtm-strategist-marketplace",
+  "owner": {
+    "name": "Maja Voje"
+  },
+  "plugins": [
+    {
+      "name": "gtm-strategist",
+      "source": "./",
+      "description": "12 GTM skills based on the GTM Strategist methodology by Maja Voje. Covers the complete go-to-market journey from foundations to scaling sales — 100 tasks across 12 phases.",
+      "version": "1.0.0"
+    }
+  ]
+}
